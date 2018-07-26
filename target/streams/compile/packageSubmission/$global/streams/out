@@ -1,0 +1,7 @@
+[info] Packaging /home/fronox/IdeaProjects/Coursera/Spark/wikipedia/target/scala-2.11/bigdata-wikipedia_2.11-0.1-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	wikipedia/WikipediaRanking.scala
+[debug] 	  /home/fronox/IdeaProjects/Coursera/Spark/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala
+[debug] 	wikipedia/WikipediaData.scala
+[debug] 	  /home/fronox/IdeaProjects/Coursera/Spark/wikipedia/src/main/scala/wikipedia/WikipediaData.scala
+[info] Done packaging.

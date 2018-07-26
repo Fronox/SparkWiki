@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(/home/fronox/IdeaProjects/Coursera/Spark/wikipedia/src/main/resources/wikipedia,/home/fronox/IdeaProjects/Coursera/Spark/wikipedia/target/scala-2.11/classes/wikipedia)
+[debug] 	(/home/fronox/IdeaProjects/Coursera/Spark/wikipedia/src/main/resources/wikipedia/wikipedia.dat,/home/fronox/IdeaProjects/Coursera/Spark/wikipedia/target/scala-2.11/classes/wikipedia/wikipedia.dat)
